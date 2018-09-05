@@ -1,0 +1,34 @@
+{
+  "name": "jquery.simplemarquee",
+  "version": "0.3.0",
+  "description": "A jQuery plugin that aims to provide a scrolling marquee similar to the good old winamp player",
+  "main": "lib/jquery.simplemarquee.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grammofy/jquery.simplemarquee.git"
+  },
+  "keywords": [
+    "marquee",
+    "text",
+    "slider",
+    "winamp",
+    "jquery",
+    "jquery-plugin"
+  ],
+  "author": "IndigoUnited",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grammofy/jquery.simplemarquee/issues"
+  },
+  "homepage": "https://github.com/grammofy/jquery.simplemarquee#readme",
+  "dependencies": {
+    "jquery": "^1.9||^2.0||^3.0"
+  }
+}
